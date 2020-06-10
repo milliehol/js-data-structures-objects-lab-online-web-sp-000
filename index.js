@@ -6,3 +6,4 @@ destructivelyUpdateDriverWithKeyAndValue()
 
 deleteFromDriverByKey()
 
+destructivelyDeleteFromDriverByKey()
